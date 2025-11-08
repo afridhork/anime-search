@@ -1,0 +1,13 @@
+## Bonus Points
+
+### User Experience:
+
+- Creative UI with unique "wow" factor
+- Skeleton loaders or meaningful loading states
+- Empty state and no results handling with helpful messaging
+- Mobile responsiveness
+
+### Technical Excellence:
+
+- Proper error handling (network failures, rate limiting, invalid API responses)
+- Race condition handling
